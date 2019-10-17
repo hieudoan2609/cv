@@ -42,7 +42,7 @@ BitcoinFast - A Bitcoin Alternative
 * Ruby/ React Native developer
 * March 2018 - August 2018
 
-DreamX
+DreamX - Decentralized Cryptocurrency Exchange
 * [DreamX is now released on Ropsten testnet](https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0)
 * [DreamX API documentation](https://hieudoan2609.github.io/dreamx-docs/)
 * Ruby/ React/ Solidity developer
