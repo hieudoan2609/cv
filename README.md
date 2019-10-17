@@ -38,12 +38,13 @@ MEMOIRES DE SAIGON – 252a1 Co Bac, District 1, HCMC
 * October 2017 – December 2017
 
 BitcoinFast - A Bitcoin Alternative
-* [https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en](https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en)
+* [BitcoinFast on Google Play](https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en)
 * Ruby/ React Native developer
 * March 2018 - August 2018
 
 DreamX
-* [https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0](https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0)
+* [DreamX is now released on Ropsten testnet](https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0)
+* [DreamX API documentation](https://hieudoan2609.github.io/dreamx-docs/)
 * Ruby/ React/ Solidity developer
 * February 2019 - August 2019
 
