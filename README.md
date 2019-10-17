@@ -1,6 +1,6 @@
 # Tran Doan Hieu
 
-hieudoan2906@gmail.com - https://github.com/hieudoan2609
+[hieudoan2906@gmail.com](hieudoan2906@gmail.com) - [https://github.com/hieudoan2609](https://github.com/hieudoan2609)
 
 # About me
 
@@ -25,7 +25,7 @@ Dr. Tao Store – 272a Xo Viet Nghe Tinh, Binh Thanh, HCMC
 * February 2017 – 2018
 
 Pathway International School
-* https://pathway.edu.vn/
+* [https://pathway.edu.vn/](https://pathway.edu.vn/)
 * WordPress Developer
 * April 2017 – August 2017
 
@@ -38,12 +38,12 @@ MEMOIRES DE SAIGON – 252a1 Co Bac, District 1, HCMC
 * October 2017 – December 2017
 
 BitcoinFast - A Bitcoin Alternative
-* https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en
+* [https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en](https://play.google.com/store/apps/details?id=com.bitcoinfast.wallet&hl=en)
 * Ruby/ React Native developer
 * March 2018 - August 2018
 
 DreamX
-* https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0
+* [https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0](https://medium.com/@dreamxplatform/dreamx-is-now-released-on-ropsten-testnet-3926358a7aa0)
 * Ruby/ React/ Solidity developer
 * February 2019 - August 2019
 
